@@ -1,0 +1,39 @@
+body {
+    padding: 15px;
+    background-color: rgb(230, 230, 255);
+}
+
+.tabela {
+    margin: 0 auto;
+    background-color: rgb(212, 212, 255);
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px;
+    border-color: rgb(79, 79, 139);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+tfoot {
+    text-align: center;
+}
+
+td,
+th {
+    padding: 10px;
+}
+
+caption {
+    padding: 10px;
+    font-size: 22px;
+}
+
+.th {
+    padding: 10px;
+    background-color: rgb(79, 79, 139);
+    border-radius: 20px;
+    color: rgb(212, 212, 255);
+}
+
+.centralizado {
+    text-align: center;
+}
